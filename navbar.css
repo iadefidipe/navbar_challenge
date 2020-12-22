@@ -1,0 +1,153 @@
+body{
+    background: #D6E2EE;
+}
+
+.navbar1{
+    max-width: 90%;
+    background: #212429;
+    min-height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 5px 10px 10px #888888;
+}
+
+.logo{
+    margin-left: 20px;
+}
+
+.navlinks{
+    max-width: 50%;
+    text-decoration: none;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.navlinks a{
+    color: #9FA2A7;
+    text-align: center;
+    margin-left: 10px;
+    margin-right: px;
+    text-decoration: none;
+    font-family: 'Cabin', sans-serif;
+    font-weight: lighter;
+    font-size: 1rem;
+}
+
+.navbutton{
+    box-sizing: border-box;
+    background: #0084A1;
+    height: 32px;
+    border-radius: 20px;
+    width: 9%;
+    margin-right: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.navbutton a{
+    text-align: center;
+    text-decoration: none;
+    color: #ffffff;
+    font-family: 'Cabin', sans-serif;
+    font-weight: lighter;
+    font-size: 1rem;
+}
+
+.navbutton:hover{
+    background: #ffffff;
+    
+}
+
+.navbutton a:hover{
+    color: #0084A1;
+}
+
+.navlinks a:hover{
+    color: #ffffff;
+}
+
+/* Second navbar */
+
+.navbar2{
+    max-width: 90%;
+    background: #212429;
+    min-height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 5px 10px 10px #888888;
+}
+
+.logo2{
+    margin-right: 40px;
+}
+
+.navcustom{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navlinks2{
+    max-width: 50%;
+    text-decoration: none;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20px;
+}
+
+.navlinks2 a{
+    color: #9FA2A7;
+    text-align: center;
+    margin-left: 10px;
+    margin-right: px;
+    text-decoration: none;
+    font-family: 'Cabin', sans-serif;
+    font-weight: lighter;
+    font-size: 1rem;
+}
+
+.navbutton2{
+    box-sizing: border-box;
+    background: #0084A1;
+    height: 32px;
+    border-radius: 20px;
+    width: 38%;
+    margin-right: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 45px;
+}
+
+.navbutton2 a{
+    text-align: center;
+    text-decoration: none;
+    color: #ffffff;
+    font-family: 'Cabin', sans-serif;
+    font-weight: lighter;
+    font-size: 1rem;
+}
+
+.navbutton2:hover{
+    background: #ffffff;
+    
+}
+
+.navbutton2 a:hover{
+    color: #0084A1;
+}
+
+.logo3{
+    margin-left: 30px;
+}
+
